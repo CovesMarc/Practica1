@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica 1</string>
+    <string name="nombreAutor">Marc Coves Sola</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="HoraFormateada">%d:%d:%d</string>
+    <string name="IntroHora">La hora a la que has pulsado el boton es: </string>
+    <string name="DimeHora">Dime la hora</string>
+    <string name="IntroSaludoSimple">Hola</string>
+</resources>
